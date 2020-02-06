@@ -1,0 +1,24 @@
+{
+  "name": "taller-nodejs",
+  "version": "1.0.0",
+  "description": "Taller NodeJS Everis",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tryn0/taller-NodeJS.git"
+  },
+  "author": "Guillermo Perez Aragon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tryn0/taller-NodeJS/issues"
+  },
+  "homepage": "https://github.com/tryn0/taller-NodeJS#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "moment": "^2.24.0",
+    "voca": "^1.4.0"
+  }
+}
